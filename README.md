@@ -1,6 +1,6 @@
 # NAO Robot Movement Programs
 
-This repository contains programs for the NAO robots to move, which were used for an experiment at work. 
+This repository contains programs for the NAO robots to move, which were used for an experiment at the lab. 
 The programs utilize the `qi` library for interacting with the NAO robots and the `pybullet` library for simulating their movements.
 
 
